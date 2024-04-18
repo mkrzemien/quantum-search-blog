@@ -1,7 +1,7 @@
 # Quantum Search Blog
 
 The repository contains an example implementation of quantum search.
-The code is described further in a blog post: [](https://softwaremill.com/a-busy-developers-guide-to-quantum-computing-part-1/).
+The code is described further in [the blog post](https://softwaremill.com/a-busy-developers-guide-to-quantum-computing-part-1/).
 
 ## Quick Setup
 
